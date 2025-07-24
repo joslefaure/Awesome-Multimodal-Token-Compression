@@ -1,3 +1,6 @@
+
+## 2023
+
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2023\.06-red)]() [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)
 [[Paper]](https://arxiv.org/abs/2306.02858) [![Area](https://img.shields.io/badge/Audio_LLM-purple)]() [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Type](https://img.shields.io/badge/Query_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
 *  [![Publish](https://img.shields.io/badge/ACL-2024-blue)]() [![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT) [Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models](https://arxiv.org/abs/2306.05424v2)
@@ -8,6 +11,9 @@
 [[Paper]](https://arxiv.org/abs/2311.08046)[[Github]](https://github.com/PKU-YuanGroup/Chat-UniVi) [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Type](https://img.shields.io/badge/Similarity_based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
 *  [![Publish](https://img.shields.io/badge/ECCV-2024-blue)]() [![Star](https://img.shields.io/github/stars/dvlab-research/LLaMA-VID.svg?style=social&label=Star)](https://github.com/dvlab-research/LLaMA-VID) [LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models](https://arxiv.org/abs/2311.17043)
 [[Paper]](https://arxiv.org/abs/2311.17043)[[Github]](https://github.com/dvlab-research/LLaMA-VID) [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Type](https://img.shields.io/badge/Query_Based-green)]() [![Type](https://img.shields.io/badge/Transformation_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
+
+## 2024
+
 *  [![Publish](https://img.shields.io/badge/ECCV-2024-blue)]() [![Star](https://img.shields.io/github/stars/ziplab/LongVLM.svg?style=social&label=Star)](https://github.com/ziplab/LongVLM) [LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)
 [[Paper]](https://arxiv.org/abs/2404.03384)[[Github]](https://github.com/ziplab/LongVLM) [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Type](https://img.shields.io/badge/Transformation_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2024\.04-red)]() [![Star](https://img.shields.io/github/stars/magic-research/PLLaVA.svg?style=social&label=Star)](https://github.com/magic-research/PLLaVA) [PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning](https://arxiv.org/abs/2404.16994)
@@ -34,6 +40,9 @@
 [[Paper]](https://arxiv.org/abs/2412.09613)[[Github]](https://github.com/OpenGVLab/PVC) [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Type](https://img.shields.io/badge/Transformation_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
 *  [![Publish](https://img.shields.io/badge/ACL-2025-blue)]() [![Star](https://img.shields.io/github/stars/Visual-AI/PruneVid.svg?style=social&label=Star)](https://github.com/Visual-AI/PruneVid) [PruneVid: Visual Token Pruning for Efficient Video Large Language Models](https://arxiv.org/abs/2412.16117v1)
 [[Paper]](https://arxiv.org/abs/2412.16117v1)[[Github]](https://github.com/Visual-AI/PruneVid) [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Type](https://img.shields.io/badge/Attention_Based-green)]() [![Type](https://img.shields.io/badge/Similarity_based-green)]() [![Cost](https://img.shields.io/badge/Training_free-yellow)]()
+
+## 2025
+
 *  [![Publish](https://img.shields.io/badge/ICCV-2025-blue)]() [![Star](https://img.shields.io/github/stars/thu-nics/FrameFusion.svg?style=social&label=Star)](https://github.com/thu-nics/FrameFusion) [FrameFusion: Combining Similarity and Importance for Video Token Reduction
 on Large Visual Language Models](https://arxiv.org/abs/2501.01986)
 [[Paper]](https://arxiv.org/abs/2501.01986)[[Github]](https://github.com/thu-nics/FrameFusion) [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Type](https://img.shields.io/badge/Attention_Based-green)]() [![Type](https://img.shields.io/badge/Similarity_based-green)]()

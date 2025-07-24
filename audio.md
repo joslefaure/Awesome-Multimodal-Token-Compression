@@ -1,3 +1,6 @@
+
+## 2023
+
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2023\.06-red)]() [Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding](https://arxiv.org/abs/2306.02858)
 [[Paper]](https://arxiv.org/abs/2306.02858) [![Area](https://img.shields.io/badge/Audio_LLM-purple)]() [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Type](https://img.shields.io/badge/Query_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
 *  [![Publish](https://img.shields.io/badge/ICASSP-2024-blue)]() [Prompting Large Language Models with Speech Recognition Abilities](https://arxiv.org/pdf/2307.11795)
@@ -6,6 +9,9 @@
 [[Paper]](https://arxiv.org/abs/2309.13963) [![Area](https://img.shields.io/badge/Audio_LLM-purple)]() [![Type](https://img.shields.io/badge/Query_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
 *  [![Publish](https://img.shields.io/badge/ICLR-2024-blue)]() [SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/abs/2310.13289)
 [[Paper]](https://arxiv.org/abs/2310.13289) [![Area](https://img.shields.io/badge/Audio_LLM-purple)]() [![Type](https://img.shields.io/badge/Query_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
+
+## 2024
+
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2024\.02-red)]() [An Embarrassingly Simple Approach for LLM with Strong ASR Capacity](https://arxiv.org/abs/2402.08846)
 [[Paper]](https://arxiv.org/abs/2402.08846) [![Area](https://img.shields.io/badge/Audio_LLM-purple)]() [![Type](https://img.shields.io/badge/Transformation_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2024\.05-red)]() [SpeechVerse: A Large-scale Generalizable Audio Language Model](https://arxiv.org/abs/2405.08295)
@@ -33,6 +39,9 @@ Optimized Audio Encoding](https://arxiv.org/abs/2406.13275)
 [[Paper]](https://arxiv.org/abs/2412.12009) [![Area](https://img.shields.io/badge/Audio_LLM-purple)]() [![Type](https://img.shields.io/badge/Attention_Based-green)]() [![Type](https://img.shields.io/badge/Query_Based-green)]() [![Cost](https://img.shields.io/badge/Training_free-yellow)]()
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2024\.12-red)]() [Typhoon 2: A Family of Open Text and Multimodal Thai Large Language Models](https://arxiv.org/abs/2412.13702)
 [[Paper]](https://arxiv.org/abs/2412.13702) [![Area](https://img.shields.io/badge/Audio_LLM-purple)]() [![Type](https://img.shields.io/badge/Query_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
+
+## 2025
+
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2025\.01-red)]() [OSUM: Advancing Open Speech Understanding Models with Limited Resources in Academia](https://arxiv.org/abs/2501.13306)
 [[Paper]](https://arxiv.org/abs/2501.13306) [![Area](https://img.shields.io/badge/Audio_LLM-purple)]() [![Type](https://img.shields.io/badge/Transformation_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2025\.02-red)]() [Baichuan-Audio: A Unified Framework for End-to-End Speech Interaction](https://arxiv.org/abs/2502.17239)

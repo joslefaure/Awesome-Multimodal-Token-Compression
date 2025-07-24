@@ -17,7 +17,7 @@ For questions, suggestions, or collaboration opportunities, please feel free to 
 
 ## 🎯 Motivation
 <div align="left">
-  <img src="images/motivation.png" alt="Awesome Token Compression" width="650"/>
+  <img src="images/motivation.png" alt="Awesome Token Compression" width="400"/>
 </div>
 
 > **Motivation:** **Up:** Image, video, and audio data types can scale in their representation dimensions, leading to a corresponding increase in the number of tokens. **Down:** Top-performing MLLMs cannot address real-world demands, as the number of tokens for multimodal information, especially video, vastly exceeds that of text. Therefore, token compression is crucial to address this limitation.
@@ -75,7 +75,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-This survey builds upon the foundational work of the AI research community. We thank all researchers contributing to the advancement of context engineering and large language models.
+This repository is inspired by [Awesome-Efficient-Reasoning-Models](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models), [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM/), [Awesome-Context-Engineering](https://github.com/Meirtz/Awesome-Context-Engineering)
 
 ## 🧑‍💻 Contributors
 

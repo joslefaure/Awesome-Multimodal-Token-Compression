@@ -1,5 +1,11 @@
+
+## 2022
+
 *  [![Publish](https://img.shields.io/badge/NeurIPS-2022-blue)]() [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
 [[Paper]](https://arxiv.org/abs/2204.14198) [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Type](https://img.shields.io/badge/Query_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
+
+## 2023
+
 *  [![Publish](https://img.shields.io/badge/ICML-2023-blue)]() [![Star](https://img.shields.io/github/stars/projects/blip2.svg?style=social&label=Star)](https://github.com/projects/blip2) [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597)
 [[Paper]](https://arxiv.org/abs/2301.12597)[[Github]](https://github.com/salesforce/LAVIS/tree/main/projects/blip2) [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Type](https://img.shields.io/badge/Query_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
 *  [![Publish](https://img.shields.io/badge/ICLR-2024-blue)]() [![Star](https://img.shields.io/github/stars/Vision-CAIR/MiniGPT-4.svg?style=social&label=Star)](https://github.com/Vision-CAIR/MiniGPT-4) [Minigpt-4: Enhancing vision-language understanding with advanced large language models.](https://arxiv.org/abs/2304.10592)
@@ -18,6 +24,9 @@
 [[Paper]](https://arxiv.org/abs/2312.06742)[[Github]](https://github.com/khanrc/honeybee?tab=readme-ov-file) [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Type](https://img.shields.io/badge/Transformation_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2023\.12-red)]() [![Star](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM.svg?style=social&label=Star)](https://github.com/Meituan-AutoML/MobileVLM) [MobileVLM : A Fast, Strong and Open Vision Language Assistant for Mobile Devices](https://arxiv.org/abs/2312.16886)
 [[Paper]](https://arxiv.org/abs/2312.16886)[[Github]](https://github.com/Meituan-AutoML/MobileVLM) [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Type](https://img.shields.io/badge/Transformation_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
+
+## 2024
+
 *  [![Arxiv](https://img.shields.io/badge/arXiv-2024\.02-red)]() [![Star](https://img.shields.io/github/stars/Meituan-AutoML/MobileVLM.svg?style=social&label=Star)](https://github.com/Meituan-AutoML/MobileVLM) [MobileVLM V2: Faster and Stronger Baseline for Vision Language Model](https://arxiv.org/abs/2402.03766)
 [[Paper]](https://arxiv.org/abs/2402.03766)[[Github]](https://github.com/Meituan-AutoML/MobileVLM) [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Type](https://img.shields.io/badge/Transformation_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
 *  [![Publish](https://img.shields.io/badge/EMNLP_Findings-2024-blue)]() [LaCo: Layer-wise Compression for Efficient MLLMs](https://arxiv.org/abs/2402.11187)
@@ -84,6 +93,9 @@
 [[Paper]](https://arxiv.org/abs/2412.09613)[[Github]](https://github.com/OpenGVLab/PVC) [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Type](https://img.shields.io/badge/Transformation_Based-green)]() [![Cost](https://img.shields.io/badge/Need_Training-yellow)]()
 *  [![Publish](https://img.shields.io/badge/AAAI-2025-blue)]() [ST3: Accelerating Multimodal Large Language Model by Spatial-Temporal Visual Token Trimming](https://arxiv.org/abs/2412.20105)
 [[Paper]](https://arxiv.org/abs/2412.20105) [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Type](https://img.shields.io/badge/Attention_Based-green)]() [![Cost](https://img.shields.io/badge/Training_free-yellow)]()
+
+## 2025
+
 *  [![Publish](https://img.shields.io/badge/AAAI-2025-blue)]() [What Kind of Visual Tokens Do We Need? Training-free Visual Token Pruning for Multi-modal Large Language Models from the Perspective of Graph](https://arxiv.org/abs/2501.02268)
 [[Paper]](https://arxiv.org/abs/2501.02268) [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Type](https://img.shields.io/badge/Similarity_based-green)]() [![Cost](https://img.shields.io/badge/Training_free-yellow)]()
 *  [![Publish](https://img.shields.io/badge/ICCV-2025-blue)]() [![Star](https://img.shields.io/github/stars/anakin-skywalker-Joseph/Folder.svg?style=social&label=Star)](https://github.com/anakin-skywalker-Joseph/Folder) [FOLDER: Accelerating Multi-modal Large Language Models with Enhanced Performance](https://arxiv.org/abs/2501.02430)
