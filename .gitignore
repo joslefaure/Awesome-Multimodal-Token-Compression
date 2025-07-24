@@ -1,0 +1,3 @@
+*.csv
+generate_item.py
+generate_md.py
