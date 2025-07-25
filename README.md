@@ -1,6 +1,5 @@
-# Awesome Token Compression
+# Awesome Multimodal Token Compression
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Paper](https://img.shields.io/badge/Paper-Published-green.svg)]()
