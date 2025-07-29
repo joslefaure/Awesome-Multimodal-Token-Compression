@@ -44,7 +44,7 @@ Please consider citing our paper in your publications if our findings help your 
 ```bibtex
 @article{token_compression_survey,
   title={When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios},
-  author={Show, Kele and Tao, Keda and Zhang, Kejia and Feng, Sicheng and Cai, Mu and Shang, Yuzhang and You, Haoxuan and Qin, Can and Sui, Yang and Wang, Huan},
+  author={Shao, Kele and Tao, Keda and Zhang, Kejia and Feng, Sicheng and Cai, Mu and Shang, Yuzhang and You, Haoxuan and Qin, Can and Sui, Yang and Wang, Huan},
   journal={arXiv preprint arXiv:2507.20198},
   year={2025}
 }
