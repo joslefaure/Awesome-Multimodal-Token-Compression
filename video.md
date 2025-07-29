@@ -45,6 +45,14 @@ Multimodal Long-Context Inference](https://arxiv.org/abs/2502.17599)
 *  [![Publish](https://img.shields.io/badge/ICCV-2025-blue)]() [![Star](https://img.shields.io/github/stars/thu-nics/FrameFusion.svg?style=social&label=Star)](https://github.com/thu-nics/FrameFusion) [FrameFusion: Combining Similarity and Importance for Video Token Reduction
 on Large Visual Language Models](https://arxiv.org/abs/2501.01986)
  [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Type](https://img.shields.io/badge/Attention--Based-green)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]()
+*  [![Publish](https://img.shields.io/badge/ICLR-2025-blue)]() [![Star](https://img.shields.io/github/stars/rese1f/aurora.svg?style=social&label=Star)](https://github.com/rese1f/aurora) [AuroraCap: Efficient, Performant Video Detailed Captioning and a New Benchmark](https://arxiv.org/abs/2410.03051)
+ [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]()
+*  [![Publish](https://img.shields.io/badge/CVPR-2025-blue)]() [Zero-shot 3D Question Answering via Voxel-based Dynamic Token Compression](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Zero-shot_3D_Question_Answering_via_Voxel-based_Dynamic_Token_Compression_CVPR_2025_paper.pdf)
+ [![Area](https://img.shields.io/badge/Video_LLM-purple)]() [![Area](https://img.shields.io/badge/3D_LLM-purple)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]()
+*  [![Publish](https://img.shields.io/badge/IROS-2025-blue)]() [ToSA: Token Merging with Spatial Awareness](https://arxiv.org/abs/2506.20066) 
+ [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]()
+
+
 
 ## 2024
 
