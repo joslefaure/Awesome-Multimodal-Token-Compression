@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Paper](https://img.shields.io/badge/Paper-Published-green.svg)]()
+[![Paper](https://img.shields.io/badge/Paper-Published-green.svg)](https://arxiv.org/abs/2507.20198)
 
 ##  Contact
 
@@ -39,10 +39,15 @@ For questions, suggestions, or collaboration opportunities, please feel free to 
 
 ## 📌 Citation
 
-Please consider citing our paper in your publications, if our findings help your research.
+Please consider citing our paper in your publications if our findings help your research.
 
 ```bibtex
-
+@article{token_compression_survey,
+  title={When Tokens Talk Too Much: A Survey of Multimodal Long-Context Token Compression across Images, Videos, and Audios},
+  author={Show, Kele and Tao, Keda and Zhang, Kejia and Feng, Sicheng and Cai, Mu and Shang, Yuzhang and You, Haoxuan and Qin, Can and Sui, Yang and Wang, Huan},
+  journal={arXiv preprint arXiv:2507.20198},
+  year={2025}
+}
 ```
 
 ---
