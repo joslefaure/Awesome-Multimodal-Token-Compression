@@ -12,7 +12,7 @@ For questions, suggestions, or collaboration opportunities, please feel free to 
 
 ## 🔥 News
 
-- **[2025.07.25]** The v1 survey is now published! We've also initialized the repository.
+- **[2025.07.29]** The v1 survey is now published! We've also initialized the repository.
 
 ## 🎯 Motivation
 <div align="left">
