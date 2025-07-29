@@ -23,10 +23,10 @@ For questions, suggestions, or collaboration opportunities, please feel free to 
 
 ## 📚 Contents
 
-- [Awesome Token Compression](#awesome-token-compression)
-    - [Image-centric](https://github.com/cokeshao/Awesome-Token-Compression/tree/main/image.md)
-    - [Video-centric](https://github.com/cokeshao/Awesome-Token-Compression/tree/main/video.md)
-    - [Audio-centric](https://github.com/cokeshao/Awesome-Token-Compression/tree/main/audio.md)
+- [Awesome Token Compression](#awesome-multimodal-token-compression)
+    - [Image-centric](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/image.md)
+    - [Video-centric](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/video.md)
+    - [Audio-centric](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/tree/main/audio.md)
 
 
 ## 🚧 TODO
@@ -80,6 +80,6 @@ This repository is inspired by [Awesome-Efficient-Reasoning-Models](https://gith
 
 👏 Thanks to these contributors for this excellent work！
 
-<a href="https://github.com/cokeshao/Awesome-Token-Compression/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cokeshao/Awesome-Token-Compression" />
+<a href="https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cokeshao/Awesome-Multimodal-Token-Compression" />
 </a>
