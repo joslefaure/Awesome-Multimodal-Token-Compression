@@ -56,7 +56,9 @@ Multimodal Long-Context Inference](https://arxiv.org/abs/2502.17599)
  [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Type](https://img.shields.io/badge/Attention--Based-green)]() [![Cost](https://img.shields.io/badge/Training--Free-yellow)]()
 *  [![Publish](https://img.shields.io/badge/AAAI-2025-blue)]() [What Kind of Visual Tokens Do We Need? Training-free Visual Token Pruning for Multi-modal Large Language Models from the Perspective of Graph](https://arxiv.org/abs/2501.02268)
  [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]() [![Cost](https://img.shields.io/badge/Training--Free-yellow)]()
-
+*  [![Publish](https://img.shields.io/badge/IROS-2025-blue)]() [ToSA: Token Merging with Spatial Awareness](https://arxiv.org/abs/2506.20066) 
+ [![Area](https://img.shields.io/badge/Image_LLM-purple)]() [![Type](https://img.shields.io/badge/Similarity--Based-green)]()
+ 
 ## 2024
 
 *  [![Publish](https://img.shields.io/badge/AAAI-2025-blue)]() [ST3: Accelerating Multimodal Large Language Model by Spatial-Temporal Visual Token Trimming](https://arxiv.org/abs/2412.20105)
