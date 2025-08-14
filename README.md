@@ -21,7 +21,7 @@
 ---
 
 > [!IMPORTANT]
-> We welcome your help in improving the library and paper. Please feel free to submit a [pull request](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/pulls) or [contact us](#contact) to:
+> We welcome your help in improving the repository and paper. Please feel free to submit a [pull request](https://github.com/cokeshao/Awesome-Multimodal-Token-Compression/pulls) or [contact us](#️-contact) to:
 > 
 > - Add a relevant paper not yet included.
 >
